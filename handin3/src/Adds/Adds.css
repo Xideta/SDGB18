@@ -1,0 +1,4 @@
+.hg__right {
+    grid-area: ads;
+    background-color: var(--text-background);
+}

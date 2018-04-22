@@ -1,0 +1,14 @@
+.post {
+    grid-column: 2/7;
+    grid-row: 3/4;
+    text-align: justify;
+}
+
+.post p {
+    float: left;
+}
+
+.post img {
+    float: right;
+    padding: 5px;
+}

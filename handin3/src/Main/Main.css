@@ -1,0 +1,21 @@
+.hg__main {
+    grid-area: main;
+    background-color: var(--text-background);
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 10px;
+    font-size: 3em;
+    font-family: 'Bitter', serif;
+    border: 0 hidden;
+}
+
+h2 {
+    padding-top: 10px;
+    font-size: 1.5em;
+    font-family: inherit;
+    border: 0 hidden;
+}   

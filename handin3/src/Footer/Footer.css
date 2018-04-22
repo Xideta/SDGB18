@@ -1,0 +1,8 @@
+.hg__footer {
+    position: relative;
+    grid-area: footer;
+    background-color: var(--background);
+    color: var(--text-background);
+    text-align: center;
+    z-index: 1;
+}

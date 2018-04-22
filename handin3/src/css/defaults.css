@@ -1,0 +1,47 @@
+@import url('./variables.css');
+html,
+body {
+    height: 100%;
+    border: 0 hidden;
+    overflow-y: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--text-background);
+    color: var(--text-color);
+    overflow-y: scroll;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    padding: 2px;
+    margin: 0 0 15px;
+    line-height: 120%;
+}
+
+a {
+    font-family: 'Open Sans', sans-serif;
+    font-size: inherit;
+    color: var(--link-color);
+}
+
+a:link {
+    text-decoration: none;
+    color: var(--link-color);
+}
+
+a:visited {
+    text-decoration: none;
+    color: var(--link-color);
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}

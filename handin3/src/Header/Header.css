@@ -1,0 +1,23 @@
+.hg__header {
+    grid-area: header;
+    background-color: black;
+}
+
+.App-logo {
+    width: 100%;
+    font-size: 0;
+    height: 100px;
+}
+
+.nav {
+    text-align: center;
+    font-size: 1.35em;
+    font-family: 'Bitter', serif;
+    padding: 5px 0 5px 0;
+    color:
+}
+
+.nav:hover {
+    color: #F17D15;
+    padding: 5px 0 5px 0;
+}
